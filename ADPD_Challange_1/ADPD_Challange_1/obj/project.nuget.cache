@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tUG3dx6h2gw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andru\\source\\repos\\ADPD_Challange_1\\ADPD_Challange_1\\ADPD_Challange_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andru\\.nuget\\packages\\selenium.webdriver\\4.25.0\\selenium.webdriver.4.25.0.nupkg.sha512",
+    "C:\\Users\\andru\\.nuget\\packages\\selenium.webdriver.chromedriver\\129.0.6668.8900\\selenium.webdriver.chromedriver.129.0.6668.8900.nupkg.sha512",
+    "C:\\Users\\andru\\.nuget\\packages\\seleniumextras.waithelpers\\1.0.2\\seleniumextras.waithelpers.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

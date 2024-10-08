@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ADPD_Challange_1/1.0.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.25.0",
+          "Selenium.WebDriver.ChromeDriver": "129.0.6668.8900",
+          "SeleniumExtras.WaitHelpers": "1.0.2"
+        },
+        "runtime": {
+          "ADPD_Challange_1.dll": {}
+        }
+      },
+      "Selenium.WebDriver/4.25.0": {
+        "runtime": {
+          "lib/net8.0/WebDriver.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Selenium.WebDriver.ChromeDriver/129.0.6668.8900": {},
+      "SeleniumExtras.WaitHelpers/1.0.2": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.25.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/SeleniumExtras.WaitHelpers.dll": {
+            "assemblyVersion": "1.0.2.0",
+            "fileVersion": "1.0.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ADPD_Challange_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Selenium.WebDriver/4.25.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0g/9I5ennfL2ZaQoXsfEPj+GcqrKlcVr1yxh3C/Eed/acNZrC38OaXLorsuHdAHiGn+QySV3iz8/hFcOXvVcoA==",
+      "path": "selenium.webdriver/4.25.0",
+      "hashPath": "selenium.webdriver.4.25.0.nupkg.sha512"
+    },
+    "Selenium.WebDriver.ChromeDriver/129.0.6668.8900": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rkhEu//U//FG9kphlwxpS28bkMb5tPHt6NNgK3K66cGiz2t6+By48U/wRid2kmTMOA2afmWT901Ou4xTeUh/nw==",
+      "path": "selenium.webdriver.chromedriver/129.0.6668.8900",
+      "hashPath": "selenium.webdriver.chromedriver.129.0.6668.8900.nupkg.sha512"
+    },
+    "SeleniumExtras.WaitHelpers/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-de7m30nkZZLkfCncYBdluUpM27AR/Vkk4kiA4HRQbV+fZI3ps4qGIeJCuj8TAMXdMfQik5Rno8xPnFBIod+ebg==",
+      "path": "seleniumextras.waithelpers/1.0.2",
+      "hashPath": "seleniumextras.waithelpers.1.0.2.nupkg.sha512"
+    }
+  }
+}
